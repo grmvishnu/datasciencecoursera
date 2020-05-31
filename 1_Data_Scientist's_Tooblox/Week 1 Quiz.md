@@ -4,10 +4,10 @@
 
 Which of the following are courses in the Data Science Specialization? Select all that apply:
 
-    * Business Analytics
-    * Python Programming
-    * Developing Data Products (previously known as Building Data Products)
-    * R programming
+* Business Analytics
+* Python Programming
+* Developing Data Products (previously known as Building Data Products)
+* R programming
 
 ### Answers
 
