@@ -1,5 +1,7 @@
 ## Data Science Specialization | Johns Hopkins University | Coursera
 
+Author : GRM VISHNU
+
 All the courses and the quizes are uploaded in this git repository.
 
 The courses list is as follows :
