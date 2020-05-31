@@ -1,13 +1,13 @@
-## The Data Scientist's Toolbox Quiz 1 (JHU) Coursera
+# The Data Scientist's Toolbox Quiz 1 (JHU) Coursera
 
 ## Question 1 
 
 Which of the following are courses in the Data Science Specialization? Select all that apply:
 
-Business Analytics
-Python Programming
-Developing Data Products (previously known as Building Data Products)
-R programming
+    Business Analytics
+    Python Programming
+    Developing Data Products (previously known as Building Data Products)
+    R programming
 
 ### Answers
 
