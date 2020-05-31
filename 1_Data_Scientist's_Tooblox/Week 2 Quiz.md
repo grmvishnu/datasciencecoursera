@@ -54,6 +54,7 @@ git clone https://github.com/username/datascientist.git
 
 Which of the following will create a markdown document with a secondary heading saying "Data Science Specialization" and an unordered list with the following for bullet points: Uses R, Nine courses, Goes from raw data to data products
 
+```R
 Option 1: 
 *h2 Data Science Specialization
 
@@ -62,6 +63,9 @@ Option 1:
 * Nine courses
 
 * Goes from raw data to data product
+```
+
+```R
 Option 2:
 ### Data Science Specialization
 
@@ -70,6 +74,9 @@ Option 2:
 * Nine courses
 
 * Goes from raw data to data products
+```
+
+```R
 Option 3:
 ## Data Science Specialization
 
@@ -78,6 +85,9 @@ li Uses R
 li Nine courses
 
 li Goes from raw data to data products
+```
+
+```R
 Option 4:
 *** Data Science Specialization
 
@@ -86,6 +96,9 @@ Option 4:
 * Nine courses
 
 * Goes from raw data to data products
+```
+
+```R
 Option 5:
 ## Data Science Specialization
 
@@ -94,6 +107,8 @@ Option 5:
 * Nine courses
 
 * Goes from raw data to data products
+```
+
 ### Answer
 
 ## Data Science Specialization
