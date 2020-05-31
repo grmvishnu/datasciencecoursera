@@ -1,4 +1,4 @@
-# R Programming Week 2 Quiz (JHU) Coursera
+# R Programming Quiz 2 (JHU) Coursera
 
 Question 1
 ----------
