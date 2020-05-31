@@ -14,6 +14,12 @@ The courses list is as follows :
     
     5.  Reproducible Research
 
+## Contributor 
+
+| Github Username | Profile Page |
+|-----------------|--------------|
+| grmvishnu       | https://github.com/grmvishnu |
+
 ## License
 
 Anyone may contribute after each assignment is turned in and graded. Feel free to submit a pull request.
