@@ -111,6 +111,7 @@ Option 5:
 
 ### Answer
 
+```R 
 ## Data Science Specialization
 
 * Uses R
@@ -118,8 +119,10 @@ Option 5:
 * Nine courses
 
 * Goes from raw data to data products
+```
 
 ## Question 5 
+
 Install and load the KernSmooth R package. What does the copyright message say?
 
 Copyright KernSmooth 1997-2009
