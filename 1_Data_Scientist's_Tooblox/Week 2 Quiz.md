@@ -1,6 +1,6 @@
-The Data Scientist's Toolbox Quiz 2 (JHU) Coursera
+# The Data Scientist's Toolbox Quiz 2 (JHU) Coursera
 
-Question 1 :
+## Question 1 :
 Which of the following commands will create a directory called data in your current working directory?
 
 mkdir /Users/data
