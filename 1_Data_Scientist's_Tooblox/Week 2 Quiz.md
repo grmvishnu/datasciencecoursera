@@ -17,13 +17,10 @@ mkdir data
 
 Which of the following will initiate a git repository locally?
 
-git merge
-
-git pull
-
-git init
-
-git push
+* git merge
+* git pull
+* git init
+* git push
 
 ### Answer
 
@@ -35,13 +32,10 @@ Suppose you have forked a repository called datascientist on Github but it isn't
 
 (For this question assume that your user name is username)
 
-git pull https://github.com/username/datascientist.git
-
-git clone https://github.com/username/datascientist.git
-
-git init
-
-git pull datascientist master
+* git pull https://github.com/username/datascientist.git
+* git clone https://github.com/username/datascientist.git
+* git init
+* git pull datascientist master
 
 ### Answer
 
@@ -122,13 +116,10 @@ Option 5:
 
 Install and load the KernSmooth R package. What does the copyright message say?
 
-Copyright KernSmooth 1997-2009
-
-Copyright M. P. Wand 1997-2013
-
-Copyright M. P. Wand 1997-2009
-
-Copyright Coursera 2009-2013
+* Copyright KernSmooth 1997-2009
+* Copyright M. P. Wand 1997-2013
+* Copyright M. P. Wand 1997-2009
+* Copyright Coursera 2009-2013
 
 install.packages("KernSmooth")
 library("KernSmooth")
