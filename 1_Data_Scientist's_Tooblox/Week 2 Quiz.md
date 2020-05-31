@@ -4,13 +4,10 @@
 
 Which of the following commands will create a directory called data in your current working directory?
 
-mkdir /Users/data
-
-mkdir data
-
-pwd data
-
-mkdir ../data
+* mkdir /Users/data
+* mkdir data
+* pwd data
+* mkdir ../data
 
 ### Answer
 
