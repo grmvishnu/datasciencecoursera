@@ -12,7 +12,7 @@ The courses list is as follows :
     
     3.  Getting and Cleaning Data
     
-    4.  Eploratory Data Analysis
+    4.  Exploratory Data Analysis
     
     5.  Reproducible Research
 
