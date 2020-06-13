@@ -1,4 +1,4 @@
-# R Programming Quiz 2 (JHU) Coursera
+# R Programming Quiz 3 (JHU) Coursera
 
 Question 1
 ----------
@@ -12,11 +12,11 @@ A description of the dataset can be found by running
 ```R
 ?iris
 ```
-There will be an object called 'iris' in your workspace. In this dataset, what is the mean of 'Sepal.Length' for the species virginica? (Please only enter the numeric result and nothing else.)
+There will be an object called 'iris' in your workspace. In this dataset, what is the mean of 'Sepal.Length' for the species virginica? Round off the answer to the nearest whole number (Please only enter the numeric result and nothing else.)
 
 ### Answer
 
-6.588
+7
 
 ```R
 # if you don't have data.table installed
@@ -61,11 +61,11 @@ How can one calculate the average miles per gallon (mpg) by number of cylinders 
 Question 4
 ----------
 
-Continuing with the 'mtcars' dataset from the previous Question, what is the absolute difference between the average horsepower of 4-cylinder cars and the average horsepower of 8-cylinder cars?
+Continuing with the 'mtcars' dataset from the previous Question, what is the absolute difference between the average horsepower of 4-cylinder cars and the average horsepower of 8-cylinder cars? Round off the answer to the nearest whole number
 
 ### Answer
 
-126.5779
+127
 
 ```R
 mtcars_dt <- as.data.table(mtcars)
