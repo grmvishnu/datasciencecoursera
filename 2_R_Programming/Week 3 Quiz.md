@@ -1,6 +1,4 @@
-# R Programming Quiz 3
-
-github repo for rest of specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
+# R Programming Quiz 2 (JHU) Coursera
 
 Question 1
 ----------
